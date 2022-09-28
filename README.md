@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Yeshua
 #### Estudiante programador
-![Estudiante programador](https://i.ibb.co/K9zwYZx/Blue-and-Purple-Casual-Corporate-App-Development-Startup-Banner-Landscape.png)
+![Estudiante programador](https://subir-imagen.com/images/2022/09/28/Blue-and-Purple-Casual-Corporate-App-Development-Startup-Banner-Landscape.png)
 
 Soy un estudiante del instituto certus y estoy en mi camino de ser un programador, para crear mis proyectos que tengo en mente que siempre quise crear.
 
