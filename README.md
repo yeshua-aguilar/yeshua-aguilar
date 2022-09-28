@@ -4,7 +4,7 @@
 
 Soy un estudiante del instituto certus y estoy en mi camino de ser un programador, para crear mis proyectos que tengo en mente que siempre quise crear.
 
-Habilidades: HTML / CSS / Java / Python / C#
+Habilidades: HTML / CSS / Java / Python / C# / Flutter / Mysql
 
 - 🔭 Estoy trabajando en Sistema de Ventas 
 - 🌱 Estoy aprendiendo Java, C# 
