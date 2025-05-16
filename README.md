@@ -1,6 +1,6 @@
 <!-- Portada -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0E75B6&width=435&lines=👋+Hola%2C+soy+Yeshua+Aguilar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0E75B6&width=435&lines=+Hola%2C+soy+Yeshua+Aguilar" alt="Typing SVG" />
   <h3>Desarrollador de Software | Amante de la programación y la tecnología</h3>
 </div>
 
@@ -8,31 +8,8 @@
 
 ## 🚀 Sobre mí
 
-- 🛒 Actualmente trabajo en un sistema de ventas en **Shopify EX**.
-- 👨‍💻 Miembro activo en la [Devs Community](https://github.com/Devs-Com).
+- 🛒 Actualmente trabajando en un WMS
 - 💡 Siempre aprendiendo nuevas tecnologías y frameworks.
-
----
-
-## 🌎 Conéctate conmigo
-
-<p align="left">
-  <a href="https://twitter.com/yeshunator" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCt-RwHmT0IGIUzAhhtsZkOA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/Yeshunator_Gamer" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:yeshunator12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="http://www.zoomware.gq" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
